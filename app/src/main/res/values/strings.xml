@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Denomination</string>
+    <string name="app_name">Cash Denomination</string>
     <string name="_2000">2000</string>
     <string name="x">X</string>
     <string name="cash_denomination">CASH DENOMINATION</string>

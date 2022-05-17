@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Denomination.iml" filepath="$PROJECT_DIR$/.idea/modules/Denomination.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Denomination.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Denomination.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Denomination.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Denomination.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Denomination.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Denomination.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Denomination.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Denomination.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CashDenomination.iml" filepath="$PROJECT_DIR$/.idea/modules/CashDenomination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CashDenomination.app.unitTest.iml" />
     </modules>
   </component>
 </project>

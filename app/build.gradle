@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.kmsstudio.denomination"
+        applicationId "com.kmsstudio.cashdenomination"
         minSdk 21
         targetSdk 32
         versionCode 1

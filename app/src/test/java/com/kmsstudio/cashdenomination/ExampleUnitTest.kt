@@ -1,4 +1,4 @@
-package com.kmsstudio.denomination
+package com.kmsstudio.cashdenomination
 
 import org.junit.Test
 

@@ -1,10 +1,10 @@
-package com.kmsstudio.denomination
+package com.kmsstudio.cashdenomination
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.widget.doAfterTextChanged
 import com.ibm.icu.text.RuleBasedNumberFormat
-import com.kmsstudio.denomination.databinding.ActivityMainBinding
+import com.kmsstudio.cashdenomination.databinding.ActivityMainBinding
 import java.text.DecimalFormat
 import java.util.*
 
